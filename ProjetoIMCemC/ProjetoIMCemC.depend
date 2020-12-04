@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591546879 source:d:\cursos dev\works c _ c++\cursoc++\projetoimcemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
