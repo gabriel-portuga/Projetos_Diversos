@@ -2,7 +2,7 @@
 
 ### Testes e projetos em:
 
-- [ ] Python
+- [x] Python
 - [x] C
 - [x] C++
 - [ ] C#
